@@ -109,7 +109,7 @@ Here are some screenshots showcasing the key features of the CarRental app:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/carrentalapp.git
+   git clone https://github.com/Eshwar-M17/car_rental_app
    ```
 
 2. Navigate to the project directory
@@ -156,6 +156,3 @@ Based on the code examined, the following features have been implemented:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.

@@ -122,11 +122,12 @@ Here are some screenshots showcasing the key features of the CarRental app:
    flutter pub get
    ```
 
-4. Configure Firebase (if applicable):
+4. Configure Firebase :
    - Create a new Firebase project
    - Add Android/iOS apps to your Firebase project
    - Download and add the configuration files to your project
    - Enable Authentication and database services in your Firebase console
+
 
 5. Run the application
    ```bash
